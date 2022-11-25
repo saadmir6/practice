@@ -6,7 +6,5 @@ def hello():
 def hello2():
     print("hello again")
 
-for i in range(3):
-    print(i)
-
-print(i)
+while True:
+    print("hi")
