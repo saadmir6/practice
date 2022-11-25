@@ -6,5 +6,5 @@ def hello():
 def hello2():
     print("hello again")
 
-while True:
-    print("hi")
+print("blahblahblahblahblah")
+
