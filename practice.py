@@ -8,3 +8,6 @@ def hello2():
 
 print("blahblahblahblahblah")
 
+print("blahblahblahblahblah")
+
+print("blahblahblahblahblah")
